@@ -1,7 +1,6 @@
 ### Olá, sou Guilherme Rodrigues 
 
 - 📚 Estou me graduando no curso de Analise e Desenvolvimento de Sistemas
-- 🌱 Estou estudando Web Development
 - 📫 Contate-me no email: guilherme.ads.2022@gmail.com
 
 ##
